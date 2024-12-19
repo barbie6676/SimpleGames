@@ -6,4 +6,10 @@ With a grid of customized dimension (between 3-6), two players take turns to fil
 
 <img src="tictactoeDemo.gif" alt="Alt Text" style="width:50%; height:auto;">
 
+## Connect-Four
+With a grid of 6x7, two players take turns to drop yellow or red circle to selected column, until one player connect four grid of the same color.
+
+<img src="connectFour.gif" alt="Alt Text" style="width:50%; height:auto;">
+
+
 
