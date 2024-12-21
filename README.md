@@ -11,5 +11,13 @@ With a grid of 6x7, two players take turns to drop yellow or red circle to selec
 
 <img src="connectFour.gif" alt="Alt Text" style="width:50%; height:auto;">
 
+## Guess-Six-Letter-Words
+Given a list of words (length of 6), player tries to guess the one "secret" word within it. Each wrong guess return a "exact match" number, which means how many characters match with the "secret" at the exact position. Try to mimimize the number of guesses.
+
+<img src="guessWordDemo.gif" alt="Alt Text" style="width:50%; height:auto;">
+
+
+
+
 
 
