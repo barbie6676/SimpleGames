@@ -24,6 +24,9 @@ struct SimpleGamesApp: App {
 
             // 2. ConnectFour game with 7x6 grid
             // ConnectFour()
+
+            // 3. GuessWord game
+            // GuessWord()
         }
     }
 }
