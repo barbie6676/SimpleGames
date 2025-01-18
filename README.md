@@ -16,6 +16,12 @@ Given a list of words (length of 6), player tries to guess the one "secret" word
 
 <img src="GuessWord/guessWordDemo.gif" alt="Alt Text" style="width:50%; height:auto;">
 
+## 24-Points (Poker Games) 
+Random withdraw 4 cards from a deck of poker cards (excluding jokers), come up with a variaty of ways to make equations by adding "+", "-", "*", "/" which result in 24.
+Parenthesis can be inserted as well. I haven't come up a very good way to deduplicate equations. Welcome to share your thoughts！
+
+<img src="24Points/24points.gif" alt="Alt Text" style="width:50%; height:auto;">
+
 
 
 
