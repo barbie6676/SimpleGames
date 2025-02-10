@@ -23,7 +23,7 @@ Parenthesis can be inserted as well. I haven't come up a very good way to dedupl
 <img src="24Points/24points.gif" alt="Alt Text" style="width:50%; height:auto;">
 
 ## Warp-Quest
-Rewrite an [old game](https://github.com/barbie6676/WarpQuestSolution) in with interactable visualization. Given a 5x5 grid, move the target plane (one with a circle) to the destination (star) to unblock next level (18 levels in total). The each plane can be moved horitonzally or vertically towards another plane, if there is no stones (no-entry) in between the route. 
+Rewrite an [old game](https://github.com/barbie6676/WarpQuestSolution) with interactable visualization. Given a 5x5 grid, move the target plane (one with a circle) to the destination (star) to unblock next level (18 levels in total). The each plane can be moved horitonzally or vertically towards another plane, if there is no stones (no-entry) in between the route. 
 
 <img src="WarpQuest/warpquest.gif" alt="Alt Text" style="width:50%; height:auto;">
 
